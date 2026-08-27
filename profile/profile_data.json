@@ -1,0 +1,87 @@
+{
+  "candidate": {
+    "name": "Kelvin Ndirangu",
+    "title": "AI Automation | DevOps Specialist",
+    "location": "Nairobi, Kenya",
+    "contact": {
+      "email": "kevodirangu@gmail.com",
+      "phone": "+254 745 374 400",
+      "github": ["github.com/Kelv-py"],
+      "linkedin": "linkedin.com/in/kelvin-ai-dev"
+    },
+    "professional_summary": "Certified Automation Developer with hands-on experience delivering automation projects including automated financial portfolio analysts, RAG-based knowledge management systems, AI-powered customer support automation, Lead Qualification and CPQ systems. Skilled in designing automation solutions with Python, LangChain, n8n, Vector DBs, HuggingFace, and LLM APIs. Experienced in fine-tuning and deploying scalable AI apps with API integrations and multi-cloud deployments (GCP, AWS, Oracle) on Docker, as well as building client-facing solutions that improve efficiency and reliability.",
+    "technical_expertise": {
+      "automation_integration": ["n8n", "Antigravity", "Vector DBs", "Ollama", "LLM APIs", "Lovable"],
+      "cloud_infrastructure": ["Docker", "GCP", "Oracle", "AWS", "Modal", "Hetzner", "Hostinger", "Cloudflare"],
+      "ai_ml_stack": ["OpenAI API", "LangChain", "HuggingFace", "PyTorch", "XGBoost", "Gemini 2.0 Flash"],
+      "web_code": ["Python", "HTML", "CSS", "JavaScript", "PHP", "NodeJS", "React", "NextJS"],
+      "tools_design": ["Figma", "Canva", "Slack", "Notion"]
+    },
+    "work_experience": [
+      {
+        "role": "Automation Engineer",
+        "company": "Kasona AI",
+        "location": "Hennef, Germany (Remote)",
+        "dates": "Oct 2025 – June 2026",
+        "key_achievements": [
+          "Developed automated financial analysis systems using Python and Fintech APIs, transitioning the company from a manual agency to sending automated reports to >700 clients.",
+          "Built AI agent infrastructure including lead scoring, CPQ automation, workflow orchestration, and context-aware memory systems, reducing manual work by >40%.",
+          "Architected AI automation pipelines using n8n, OpenClaw, Claude, Antigravity, Airtable, and vector databases with robust LLM safeguards.",
+          "Implemented CI/CD pipelines, Docker deployments, VPS infrastructure, and GitHub Actions workflows to improve agent management.",
+          "Designed secure and scalable PostgreSQL and Supabase architectures with Row-Level Security (RLS), triggers, and migrations.",
+          "Built and maintained Wealth Intelligence webapps supporting portfolio analysis for >700 clients across EU and US markets."
+        ]
+      },
+      {
+        "role": "AI Automation Developer",
+        "company": "Freelance & Remote",
+        "dates": "Jan 2024 – Oct 2025",
+        "key_achievements": [
+          "Built n8n + Python RAG workflows with LangChain and Pinecone, improving internal knowledge management and staff training.",
+          "Deployed AI-powered document querying bots on Telegram and WhatsApp using Docker/Ngrok, scaled across GCP and Oracle Cloud.",
+          "Architected a private local LLM solution using Ollama and Runpod to enhance business solutions without leaking private data.",
+          "Built, managed, and deployed Python ML models (XGBoost, PyTorch) from data scraping through model tuning."
+        ]
+      },
+      {
+        "role": "Developer & Tech Support",
+        "company": "Galazy Software",
+        "location": "Nairobi, KE",
+        "dates": "Feb 2018 – Feb 2024",
+        "key_achievements": [
+          "Built high-performance websites using NextJS, React, and WordPress.",
+          "Improved e-commerce performance via automation, social/email campaigns, and funnel optimization.",
+          "Reduced manual workload by 40% using Zapier, GHL, and n8n.",
+          "Resolved software issues for 100+ clients with a 95% satisfaction rate.",
+          "Increased client traffic and engagement by >40% through custom scripts and UI enhancements."
+        ]
+      }
+    ],
+    "portfolio_highlights": [
+      {
+        "project": "Financial Portfolio Analyst",
+        "description": "Architected Python + LLM workflows using ElevenLabs audio AI and SKILL.md governance to produce briefings for >500 portfolios. Implemented deterministic math guardrails to prevent price hallucinations."
+      },
+      {
+        "project": "Knowledge Management RAG Solution",
+        "description": "Designed an n8n + Python pipeline integrating LangChain and Pinecone for semantic search of SOPs and training manuals, improving onboarding efficiency by 55%."
+      },
+      {
+        "project": "AI Customer Support Agent",
+        "description": "Built and containerized a local LLM chatbot (Runpod, Ollama) that reduced customer response times by 70% while maintaining 100% data privacy."
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc. Biotechnology",
+        "institution": "Jomo Kenyatta University of Agriculture and Technology (JKUAT)"
+      }
+    ],
+    "certifications": [
+      "Oracle Generative AI Professional",
+      "Oracle Cloud Foundations Associate",
+      "CompTIA Cloud+",
+      "Intellectual Property Certification - WIPO Academy"
+    ]
+  }
+}

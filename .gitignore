@@ -1,0 +1,22 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+
+# Application output & logs
+output/
+*.pdf
+error.txt
+
+# Temp / scratch scripts
+scratch_sample.py
